@@ -170,6 +170,9 @@
           }
           "parent": {
             "$ref": "#/components/schemas/Plant"
+          },
+          "child": {
+            "$ref": "#/components/schemas/Plant"
           }
         }
       },
