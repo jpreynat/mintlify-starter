@@ -168,6 +168,9 @@
             "description": "Tag to specify the type",
             "type": "string"
           }
+          "parent": {
+            "$ref": "#/components/schemas/Plant"
+          }
         }
       },
       "NewPlant": {
